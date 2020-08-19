@@ -1,0 +1,19 @@
+/node_modules
+/public/hot
+/public/storage
+/public/js/echo.js
+/storage/app/documents
+/storage/app/images
+/storage/app/plagiarism_document
+/storage/app/videos
+/storage/*.key
+# /vendor
+/vendor/
+/_nova
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log

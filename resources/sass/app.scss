@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import 'guidelines.scss';
+
+
+.btn-primary {
+    background-color: rgba(112,56,168,.85) !important;
+    border-color: rgba(112,56,168,.85) !important;
+}
+
+a {
+    &.btn {
+        color: white !important;
+    }
+}
